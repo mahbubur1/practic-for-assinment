@@ -9,6 +9,8 @@ h1{
 .flexible{
     margin: 0 ;
     display: flex;
+    justify-content: space-around;
+
 }
 .introdiction{
     width: 80%;
@@ -36,10 +38,15 @@ h1{
      border: 20px;
      margin: 10px;  
  }
+ .sadar-upazila img{
+    weight: 80px;
+     height: 223px;
+
+ }
  
  .raipura img{
-     width: 270px;
-     padding-left: 35px;
+     weight: 80px;
+     height: 223px;
  }
  h2{
      font-weight: 600;
